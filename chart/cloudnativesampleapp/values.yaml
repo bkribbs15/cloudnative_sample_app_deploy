@@ -3,8 +3,8 @@
 replicaCount: 1
 revisionHistoryLimit: 1
 image:
-  repository: us.icr.io/catalyst_cloudnative/greeting
-  tag: 3
+  repository: us.icr.io/cldstd15-ns/greeting
+  tag: latest
   pullPolicy: IfNotPresent
   resources:
     requests:
