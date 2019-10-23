@@ -3,7 +3,7 @@
 replicaCount: 1
 revisionHistoryLimit: 1
 image:
-  repository: us.icr.io/cldstd15-ns/greeting
+  repository: docker.io/bkribbs15/cloudnative-sample
   tag: latest
   pullPolicy: IfNotPresent
   resources:
